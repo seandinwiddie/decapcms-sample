@@ -1,0 +1,1 @@
+# decapcms-sample
