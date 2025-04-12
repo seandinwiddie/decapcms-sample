@@ -4,6 +4,7 @@ backend:
 
 media_folder: static/img
 media_library:
+  name: uploadcare
   max_file_size: 512000
   folder_support: true
 
